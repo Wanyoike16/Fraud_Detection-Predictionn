@@ -4,7 +4,7 @@ This project is a machine learning-based approach to detect fraudulent credit ca
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - The dataset contains transactions made by European cardholders in September 2013.
@@ -14,7 +14,7 @@ This project is a machine learning-based approach to detect fraudulent credit ca
 
 ---
 
-## 🧠 Machine Learning Model
+##  Machine Learning Model
 
 - **Algorithm:** Logistic Regression
 - **Preprocessing:**
@@ -32,14 +32,8 @@ This project is a machine learning-based approach to detect fraudulent credit ca
 
 ---
 
-## 💻 Streamlit Web App
+##  Streamlit Web App
 
 A simple and interactive web interface allows users to input transaction features and get real-time fraud predictions.
 
-### 🚀 To Run the App Locally:
 
-```bash
-git clone https://github.com/yourusername/fraud-detection-logistic-regression.git
-cd fraud-detection-logistic-regression
-pip install -r requirements.txt
-streamlit run app/app.py
